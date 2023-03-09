@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on customer behavior analysis<br>👯 I’m looking to collaborate on creating ideas on how AI can transform businesses<br>🤝 I’m looking for help with data science projects<br>🌱 I’m currently learning machine learning and AI<br>💬 Ask me about data science<br>⚡ Fun fact I dont like to eat fish :))
+🔭 I’m currently working on customer behavior analysis using Python<br>👯 I’m looking to collaborate on creating ideas on how AI can transform businesses<br>🤝 I’m looking for help with data science projects<br>🌱 I’m currently learning machine learning and AI<br>💬 Ask me about data science<br>⚡ Fun fact I dont like to eat fish :))
 
 
 ## 🌐 Socials:
